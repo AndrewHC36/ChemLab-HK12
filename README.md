@@ -13,3 +13,7 @@ Partner: Created atom model
 ##### Evening
 Me: 2 Hours of me fidgeting why the reaction ain't working  
 Partner: found me a list of reaction
+
+
+### Example/Showcase
+https://www.loom.com/share/c096d6e98f9f43e9af7c8bd0337d17c5
